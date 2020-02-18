@@ -23,3 +23,4 @@ class application
 
     resp.finish
   end
+end
